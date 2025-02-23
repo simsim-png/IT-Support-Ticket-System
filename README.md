@@ -15,6 +15,8 @@ A ticket management system with a Spring Boot backend and Swing client interface
 1. Build the application:
 
 ```bash
+git clone https://github.com/simsim-png/IT-Support-Ticket-System.git
+cd IT-Support-Ticket-System
 mvn clean package
 ```
 
